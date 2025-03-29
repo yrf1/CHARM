@@ -11,6 +11,10 @@ Communication between people from different cultures can be challenging due to a
 1. Run `git clone https://github.com/yrf1/CHARM`
 2. Run `docker run -i crane/charm_s25`
 
+## Online Demo (Public)
+
+https://blender02.cs.illinois.edu/ccu-demo/
+
 ## References
 ```
 @misc{fung2025,
