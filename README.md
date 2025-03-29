@@ -12,3 +12,13 @@ Communication between people from different cultures can be challenging due to a
 2. Run 'docker run -i crane/charm_s25'
 
 ## References
+```
+@misc{fung2025,
+      title={CHARM: Cross-Cultural Harmonious Communication Multi-Modal Analysis via Norms and Emotion}, 
+      author={Yi R. Fung and Ziwei Gong and zehui wu and Yunfan Zhang and Charles Yu and Zhaoyuan Deng and Adil Soubki and Yanda Chen and Carl Vondrick and Owen Rambow and Julia Hirschberg and Kathleen McKeown and Heng Ji},
+      year={2025},
+      eprint={2210.08604},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
