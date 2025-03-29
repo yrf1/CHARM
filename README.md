@@ -8,8 +8,8 @@ Communication between people from different cultures can be challenging due to a
    
 ## Instructions
 
-1. Run 'https://github.com/yrf1/CHARM'
-2. Run 'docker run -i crane/charm_s25'
+1. Run `git clone https://github.com/yrf1/CHARM`
+2. Run `docker run -i crane/charm_s25`
 
 ## References
 ```
